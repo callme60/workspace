@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @callme60
-- 👀 I’m interested in Life
-- 🌱 I’m currently learning Object detection
-- 💞️ I’m looking to 
-- 📫 How to reach me 
+- 👋 Hi, I’m yukyung yang
+- 📫 yukyung2443@naver.com
+- Just do it like 'nike', haha!
+
+
+
+
 
 
 
