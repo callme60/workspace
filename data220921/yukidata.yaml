@@ -1,0 +1,9 @@
+train: /madein60/whole_of_yolo/yolov5/data220921/images/train/
+val: /madein60/whole_of_yolo/yolov5/data220921/images/valid/
+
+nc: 3
+names: [
+'critical',
+'error',
+'pore'
+]
