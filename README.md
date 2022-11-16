@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yukyung yang
 - 📫 yukyung2443@naver.com
 
-
+- Have a nice day.
 
 
 
