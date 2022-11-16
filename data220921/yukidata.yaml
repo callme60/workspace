@@ -1,5 +1,5 @@
-train: /content/data220921/images/train/
-val: /content/data220921/images/valid/
+train: /content/workspace/data220921/images/train/
+val: /content//workspace/data220921/images/valid/
 
 nc: 3
 names: [
