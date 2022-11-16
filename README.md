@@ -1,6 +1,5 @@
 - 👋 Hi, I’m yukyung yang
 - 📫 yukyung2443@naver.com
-- Just do it like 'nike', haha!
 
 
 
